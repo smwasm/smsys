@@ -1,6 +1,6 @@
 [package]
 name = "smsys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["smwasm@outlook.com"]
 repository = "https://github.com/smwasm/smsys.git"
@@ -13,5 +13,5 @@ description = "SmartModule System Library"
 json = "0.12.4"
 lazy_static = "1.4.0"
 
-smcore = "0.1.3"
+smcore = "0.1.4"
 smdton = "0.1.2"
